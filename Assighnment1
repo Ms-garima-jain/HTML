@@ -1,0 +1,50 @@
+Assignment 1: Article Layout
+Create an HTML page to display a news article.
+Requirements:
+
+Use <h1> for the main article title.
+Use <h2> for subheadings.
+Write at least two paragraphs about the article.
+Include a "Read more" link using the <a> tag that points to a related webpage.
+---------------------------------------------------------------
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Assighnment1</title>
+</head>
+<body>
+   <h1 ><center>🌱 The Future of Sustainable Living: Small Changes, Big Impact 🌱</center></h1> 
+   <h2><center>Introduction:</center></h2>
+   <p>
+    
+    In a world where environmental concerns are growing, adopting a sustainable lifestyle is no longer just an option—it's a necessity. Small, mindful changes in our daily routines can have a significant positive impact on the planet. From reducing plastic use and conserving water to switching to renewable energy and embracing minimalism, these changes not only help protect natural resources but also promote a healthier lifestyle. Imagine a future where clean air, thriving ecosystems, and reduced carbon footprints become the norm—all because individuals chose to make small but meaningful changes. The journey toward sustainability begins with awareness and a commitment to making a difference. Are you ready to be a part of this change? 🌍
+</p>
+<h2 ><center>🌿 1. Reducing Plastic Waste: One Step at a Time</center></h2>
+<p>Plastic pollution is one of the biggest environmental challenges of our time. Every year, millions of tons of plastic end up in the oceans, harming marine life and disrupting ecosystems. Switching to reusable bags, stainless steel water bottles, and compostable packaging can drastically cut down on plastic waste. By choosing eco-friendly alternatives, we not only reduce pollution but also inspire others to do the same.</p>
+
+<h3><center>💧 2. Conserving Water: Every Drop Counts</center></h3>
+<p>Water is a precious resource, yet it’s often wasted due to negligence. Simple actions like turning off the tap while brushing, fixing leaks, and using water-efficient appliances can conserve gallons of water every day. Rainwater harvesting and using recycled water for gardening are also great ways to make the most of available resources. When we use water wisely, we ensure that future generations have access to clean and safe water.</p>
+<h4><center>☀️ 3. Switching to Renewable Energy: Powering a Greener Future
+</center></h4>
+<p>Fossil fuels contribute heavily to global warming, but the rise of renewable energy sources like solar and wind offers a cleaner alternative. Installing solar panels at home, opting for green energy providers, and supporting policies that promote clean energy can reduce our carbon footprint significantly. Embracing renewable energy not only saves money but also paves the way for a more sustainable planet.</p>
+<center>
+        <h3>Sustainable Living</h3>
+        <img src="sustainable.webp" width="500px"  height="200px" alt="sustainable"/>
+    </center>
+    <center>
+    <a href="https://www.cbs.de/en/blog/sustainable-living-tips-for-a-more-sustainable-lifestyle" target="_blank" ><font size="10">ReadMore</font> </a>
+</center>
+
+
+
+
+
+
+
+
+
+   </p>
+</body>
+</html>
