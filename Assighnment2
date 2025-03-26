@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Assighnment2</title>
+</head>
+<body>
+    <h1><center><font color ="purple">Garima jain</font></center></h1>
+  <center>  <img src="garima img.jpg" alt="garima jain" width="150px" height="150px"/>
+  </center>
+  <center><h2><font color ="purple">👤 About Me 👤</h2></font></center>
+      <center>   
+        <Font size="4" ><Font color="purple">   
+            (Little jain)😊Proud to be jain❤❤<br/>
+        👩‍💻Trainee At InfoBeans Foundation👩‍💻 <br/>
+   
+       
+            👩‍💻  Ai Engineer
+</Font>
+</center>
+<center ><font color ="purple">
+    <h2>Hobbies</h2>
+    ☺ like cooking ❤💚<br/>
+😍likes reading 😊😊
+
+</font>
+</center>
+<center ><font color ="purple">
+    <h2>Favourite book</h2>
+    📕Harry Potter Series by J.K. Rowling<br/>
+    📘The Lord of the Rings by J.R.R. Tolkien<br/>
+
+    📖 Atomic Habits by James Clear
+</font>
+</center>
+<center ><font color ="purple">
+    <h2>Link of Social media Accounts</h2>
+  <a href="https://www.linkedin.com/in/garima-jain-783029252/" target="_blank"> <h5>🔗 Linked In🔗 </h5> </a>
+  <a href="https://www.instagram.com/garimajain84/" target="_blank"> <h5>📸 Instagram📸 </h5> </a>
+  <a href="https://github.com/" target="_blank"> <h5>🐱  github🐱  </h5> </a>
+
+</font>
+</center>
+</body>
+</html>
