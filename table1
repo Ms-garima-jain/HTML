@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Student Information</h1>
+ <table border="5">
+    <th>Rollnumber</th>
+    <th>StudentName </th>
+    <th>Marks</th>
+    <tr>
+        <td>1</td>
+        <td>Garima jain</td>
+        <td>100</td>
+    </tr>
+    <tr>
+        <td>2</td>
+        <td>yashashvijain</td>
+        <td>90</td>
+    </tr>
+    <tr>
+        <td>3</td>
+        <td>bhoomika rawat</td>
+        <td>80</td>
+    </tr>
+ </table>   
+</body>
+</html>
